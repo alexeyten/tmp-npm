@@ -1,4 +1,8 @@
-tmp
-===
+tmp-npm
+=======
 
-Version $Format:%H$
+Installation
+------------
+```
+npm install http://github.com/alexeyten/tmp-npm/tarball/master
+```
