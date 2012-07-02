@@ -1,4 +1,4 @@
 tmp
 ===
 
-tmp
+Version $Format:%H$
