@@ -1,0 +1,16 @@
+{
+    "author": {
+        "name": "Alexey Ten (Lynn)",
+        "email": "alexeyten@gmail.com",
+        "url": "https://github.com/alexeyten"
+    },
+    "name": "tmp-npm",
+    "version": "0.1.0-g$Format:%h$",
+    "homepage": "https://github.com/alexeyten/tmp-npm",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/alexeyten/tmp-npm.git"
+    },
+    "private": true
+}
+

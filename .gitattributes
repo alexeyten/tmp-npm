@@ -1,2 +1,3 @@
-README.md   export-subst
-.git*       export-ignore
+README.md       export-subst
+package.json    export-subst
+.git*           export-ignore
